@@ -8,5 +8,7 @@
 </head>
 <body>
 	<h1>detail page</h1>
+	asldkfjaslkdjflkasjlkfdjasfda;ljsdf;lajsdf
+	
 </body>
 </html>
